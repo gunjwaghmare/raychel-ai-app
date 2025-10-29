@@ -1,0 +1,4 @@
+streamlit
+langchain
+python-dotenv
+# Add any other libraries you import (e.g., requests, openai, etc.)
